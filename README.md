@@ -12,14 +12,19 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Core Java | J2EE | RPA | C | C++ | Shell Script| PHP | .NET 
+- 💻 &nbsp; Core Java | J2EE | RPA | Business Analyst | C | C++ | .NET 
 - 🌐 &nbsp; JavaScript | JSON | XML | j Query | AJAX | HTML5 | CSS | Bootstrap  
 - 🛠️ &nbsp; EC2 | S3 | Clustering on RDS | VPN | Beanstalk | Autoscaling | API Gateway | Route53 | IAM | Lambda | SNS | SQS | Code Build | Code Deploy | Code Pipeline |      Code Star | ECR 
 - 🛢 &nbsp; MySQL | MS SQL | PostgreSQL | Oracle | MongoDB | SQL Server 
 - 🔧 &nbsp; Eclipse | Visual Studio | Android Studio | STS | Sublime Text | Postman | Robo 3T | Jira | PMWB | GitHub
 - 🎨 &nbsp; Advertisement Project | Social Media Post | Logo Designing | Poster Creation | Video Editing & Making | Infographics
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | CorelDraw
 
+
+<h3>📌 Tech Stack Certifications </h3>
+- 📚 &nbsp; UiPath RPA Foundation | Java | .NET 
+
+<br>
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jinshah93&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22" alt="Jinal's Github Stats">
