@@ -11,6 +11,8 @@
 - ✍️ &nbsp; Watching Hollywood Movies and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1800px">
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Core Java | J2EE | RPA | Business Analyst | C | C++ | .NET 
@@ -21,6 +23,7 @@
 - 🎨 &nbsp; Advertisement Project | Social Media Post | Logo Designing | Poster Creation | Video Editing & Making | Infographics
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | CorelDraw
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 <br>
   <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -44,12 +47,13 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
   </p>
-  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">  
  
 <h3>📌 Tech Stack Certifications </h3>
 
 - 📚 &nbsp; UiPath RPA Foundation | Java | .NET 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 <br>
 
 <h3 align="left">GitHub Stats</h3>
@@ -61,6 +65,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinshah93&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jinshah93/github-readme-stats)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="Left">
@@ -70,5 +76,6 @@
 &nbsp; <a href="mailto:techieshah93@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 ⭐️ From [Jinal Shah](https://github.com/jinshah93)
