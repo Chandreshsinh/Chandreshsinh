@@ -22,10 +22,12 @@
 
 
 <h3>📌 Tech Stack Certifications </h3>
+
 - 📚 &nbsp; UiPath RPA Foundation | Java | .NET 
 
 <br>
-<br>
+
+<h3 align="left">GitHub Stats</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jinshah93&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22" alt="Jinal's Github Stats">
 
