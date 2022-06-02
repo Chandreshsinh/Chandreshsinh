@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Jinal Shah.👨‍💻</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/jinshah93/jinshah93.github.io/blob/master/images/j1.gif" width="320"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently Senior Software Engineer with RPA Business Anaylyst.
