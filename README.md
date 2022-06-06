@@ -5,8 +5,10 @@
 <h1 align="center">I'm Jinal Shah</h1>
 <p align="center">Enthusiastic FullStack Developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinshah93" alt="jinshah93" /> </p>
+
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320"/>
-<h3> 👨🏻‍💻 About Me </h3>
+<h2> 👨🏻‍💻 About Me </h2>
 
 - 🔭 &nbsp; I’m currently Senior Software Engineer with RPA Business Anaylyst.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -18,7 +20,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1800px">
 
-<h3>🛠 Tech Stack</h3>
+<h2>🛠 Tech Stack</h2>
 
 - 💻 &nbsp; Core Java | J2EE | RPA | Business Analyst | C | C++ | .NET 
 - 🌐 &nbsp; JavaScript | JSON | XML | j Query | AJAX | HTML5 | CSS | Bootstrap  
@@ -54,7 +56,7 @@
   </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">  
  
-<h3>📌 Tech Stack Certifications </h3>
+<h2>📌 Tech Stack Certifications </h2>
 
 - 📚 &nbsp; UiPath RPA Foundation | Java | .NET 
 
@@ -72,7 +74,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 <p align="left">
 &nbsp; <a href="https://twitter.com/TechIncognito" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
