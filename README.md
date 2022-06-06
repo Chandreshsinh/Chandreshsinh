@@ -54,18 +54,15 @@
 - 📚 &nbsp; UiPath RPA Foundation | Java | .NET 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
-<br>
-
+<p></p>
 <h3 align="left">GitHub Stats</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jinshah93&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22" alt="Jinal's Github Stats">
 
 </br>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinshah93&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jinshah93/github-readme-stats)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinshah93&&theme=tokyonight" alt="jinshah93" /></p>
 
