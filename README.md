@@ -68,7 +68,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinshah93&&theme=tokyonight" alt="jinshah93" /></p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1800px">
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
