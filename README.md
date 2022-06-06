@@ -81,7 +81,7 @@
 <a href="https://twitter.com/TechIncoginto" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/jinalshah" target="_blank">
+<a href="https://codepen.io/jinshah93" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/pragativerma18" target="_blank">
