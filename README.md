@@ -1,4 +1,9 @@
-<h2> Hey there! I'm Jinal Shah.👨‍💻</h2>
+<!-- <h1 align="center">Hi 👋, I'm Jinal Shah</h1> -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+</div>
+<h1 align="center">I'm Jinal Shah</h1>
+<p align="center">Enthusiastic <a href="https://jinshah93.github.io/images/resume.pdf">FullStack Developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
 <img align="right" alt="GIF" src="https://github.com/jinshah93/jinshah93.github.io/blob/master/images/j1.gif" width="320"/>
 <h3> 👨🏻‍💻 About Me </h3>
