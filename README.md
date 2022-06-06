@@ -5,7 +5,7 @@
 <h1 align="center">I'm Jinal Shah</h1>
 <p align="center">Enthusiastic FullStack Developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
-<img align="right" alt="GIF" src="https://github.com/jinshah93/jinshah93.github.io/blob/master/images/j1.gif" width="320"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently Senior Software Engineer with RPA Business Anaylyst.
