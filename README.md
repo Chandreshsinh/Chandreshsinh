@@ -87,7 +87,7 @@
 <a href="https://dev.to/pragativerma18" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/jinalshah" target="_blank">
+<a href="https://stackoverflow.com/users/10066126/jinal-shah" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/iamjinalshah" target="_blank">
@@ -99,8 +99,9 @@
 <a href="https://instagram.com/techiecapri" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@jinalshah" target="_blank">
+<a href="https://medium.com/@jinalshah.devs" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+
 
 ⭐️From [Jinal Shah](https://github.com/jinshah93)
