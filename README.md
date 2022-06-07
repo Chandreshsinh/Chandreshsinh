@@ -6,9 +6,11 @@
 <p align="center">Enthusiastic FullStack Developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinshah93&label=Profile%20views&color=dc143c&style=flat" alt="jinshah93" /> </p>
-<br>
+
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320"/>
 
+<div></div>
+<br>
 <h2> 👨🏻‍💻 About Me </h2>
 
 - 🔭 &nbsp; I’m currently Senior Software Engineer with RPA Business Anaylyst.
