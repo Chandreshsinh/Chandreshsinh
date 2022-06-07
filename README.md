@@ -9,8 +9,6 @@
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320"/>
 
-<div></div>
-<br>
 <h2> 👨🏻‍💻 About Me </h2>
 
 - 🔭 &nbsp; I’m currently Senior Software Engineer with RPA Business Anaylyst.
