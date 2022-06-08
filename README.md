@@ -6,7 +6,7 @@
 <p align="center">Enthusiastic Developer 👨‍💻 </a>, eager to contribute to team success through hard work.</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandreshsinh&label=Profile%20views&color=dc143c&style=flat" alt="chandreshsinh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandreshsinh&label=Profile%20views&color=dc143c&style=flat" alt="Chandreshsinh" /> </p>
 &nbsp;
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320"/>
 
@@ -41,14 +41,14 @@
 
 <h2 align="left"> GitHub Stats</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandreshsinh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22" alt="Jinal's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandreshsinh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22" alt="Chandreshsinh's Github Stats">
 
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandreshsinh&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/chandreshsinh/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandreshsinh&&theme=tokyonight" alt="chandreshsinh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandreshsinh&&theme=tokyonight" alt="Chandreshsinh" /></p>
 
-[![Jinal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chandreshsinh&&theme=xcode)](https://github.com/chandreshsinh)
+[![Chandreshsinh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chandreshsinh&&theme=xcode)](https://github.com/chandreshsinh)
 
 
 <h2 align="left">Connect with me</h2>
