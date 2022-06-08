@@ -41,23 +41,23 @@
 
 <h2 align="left"> GitHub Stats</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinshah93&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22" alt="Jinal's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandreshsinh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22" alt="Jinal's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinshah93&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jinshah93/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinshah93&&theme=tokyonight" alt="jinshah93" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandreshsinh&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/chandreshsinh/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandreshsinh&&theme=tokyonight" alt="chandreshsinh" /></p>
 
-[![Jinal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jinshah93&&theme=xcode)](https://github.com/jinshah93)
+[![Jinal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chandreshsinh&&theme=xcode)](https://github.com/chandreshsinh)
 
 
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
-&nbsp; <a href="https://twitter.com/TechIncognito" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/techiecapri/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/iamjinalshah/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:techieshah93@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/ckjadeja523" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/chandreshsinh_97/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/chandreshsinhjadeja/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:chandreshjadeja523@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 ⭐️From [Chandreshsinh Jadeja](https://github.com/chandreshsinh)
