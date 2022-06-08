@@ -10,7 +10,7 @@
 &nbsp;
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320"/>
 
-<h2> 👨🏻‍💻 About Me </h2>
+<h2 align="left"> 👨🏻‍💻 About Me </h2>
 
 - 🔭 &nbsp; I’m currently Senior Software Engineer with RPA Business Anaylyst.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
