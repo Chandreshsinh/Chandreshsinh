@@ -1,35 +1,32 @@
-<!-- <h1 align="center">Hi 👋, I'm Jinal Shah</h1> -->
+<!-- <h1 align="center">Hi 👋, I'm Chandreshsinh Jadeja</h1> -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
-<h1 align="center">I'm Jinal Shah</h1>
-<p align="center">Enthusiastic FullStack Developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
+<h1 align="center">I'm Chandreshsinh Jadeja</h1>
+<p align="center">Enthusiastic Developer 👨‍💻 </a>, eager to contribute to team success through hard work.</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinshah93&label=Profile%20views&color=dc143c&style=flat" alt="jinshah93" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandreshsinh&label=Profile%20views&color=dc143c&style=flat" alt="chandreshsinh" /> </p>
 &nbsp;
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320"/>
 
 <h2 align="left"> 👨🏻‍💻 About Me </h2>
 
-- 🔭 &nbsp; I’m currently Senior Software Engineer with RPA Business Anaylyst.
+- 🔭 &nbsp; I’m currently RPA Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Master Degree Holder with Computer Science in Information Technology.
-- 💼 &nbsp; Fullstack Developer (Front-End + Back-End).
-- 🌱 &nbsp; Enthusiast in RPA and Data Sciences.
-- ✍️ &nbsp; Watching Hollywood Movies and trying out latest design trends as hobbies/side hustles.
+- 🎓 &nbsp; Bachelor's Degree Holder with Computer Science in Information Technology.
+- 🌱 &nbsp; Enthusiast in RPA and Mobile App Development.
+- ✍️ &nbsp; Watching Hollywood Movies.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
 <h2>🛠 Tech Stack</h2>
 
-- 💻 &nbsp; Core Java | J2EE | RPA | Business Analyst | C | C++ | .NET 
-- 🌐 &nbsp; JavaScript | JSON | XML | j Query | AJAX | HTML5 | CSS | Bootstrap  
-- 🛠️ &nbsp; EC2 | S3 | Clustering on RDS | VPN | Beanstalk | Autoscaling | API Gateway | Route53 | IAM | Lambda | SNS | SQS | Code Build | Code Deploy | Code Pipeline |      Code Star | ECR 
-- 🛢 &nbsp; MySQL | MS SQL | PostgreSQL | Oracle | MongoDB | SQL Server 
-- 🔧 &nbsp; Eclipse | Visual Studio | Android Studio | STS | Sublime Text | Postman | Robo 3T | Jira | PMWB | GitHub
+- 💻 &nbsp; Core Java| RPA | Python 
+- 🛢 &nbsp; MySQL | MS SQL | Oracle | SQL Server 
+- 🔧 &nbsp; Eclipse | Visual Studio | Android Studio | Sublime Text | Postman | GitHub
 - 🎨 &nbsp; Advertisement Project | Social Media Post | Logo Designing | Poster Creation | Video Editing & Making | Infographics
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | CorelDraw
+- 🖥 &nbsp; Intrests:- Adobe Xd | Illustrator | Photoshop | CorelDraw
 
 <h2 align="left">🛠️ Languages and Tools</h2>
 
@@ -39,7 +36,7 @@
  
 <h2>📌 Tech Stack Certifications </h2>
 
-📚 &nbsp; UiPath RPA Foundation | Java | ASP.NET 
+📚 &nbsp; UiPath Advance RPA | Automation Anywhere RPA Developer 
 
 
 <h2 align="left"> GitHub Stats</h2>
@@ -63,4 +60,4 @@
 &nbsp; <a href="mailto:techieshah93@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️From [Jinal Shah](https://github.com/jinshah93)
+⭐️From [Chandreshsinh Jadeja](https://github.com/chandreshsinh)
